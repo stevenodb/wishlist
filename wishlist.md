@@ -23,3 +23,14 @@
 ![Moleskin notitieboekjes](./moleskin.jpg)
 
 <hr />
+
+## 4. Schroevendraaier set
+
+- minimale vereiste
+	- Torx T5
+- bv: [HAMA mediamarkt](http://www.mediamarkt.be/mcs/product/HAMA-39694-Mini-schroevendraaier-set-Televisie-%26-Audio-Buy-online-at-MediaMarkt,98952,502728,652331.html?langId=-17)
+![HAMA miniset](hama.png)
+
+<hr />
+
+## 5. 
