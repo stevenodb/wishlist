@@ -1,16 +1,17 @@
 # Lijstje
 
-## 1. What If? By Randal Munroe
-- [Amazon Hardcover](http://www.amazon.co.uk/What-If-Scientific-Hypothetical-Questions/dp/1848549571/ref=tmm_hrd_swatch_0?_encoding=UTF8&sr=&qid=)
+## 1. Wii U Premium Zwart 32GB — Mario Kart
+- [Wii U Mario Kart](https://www.nintendo.be/nl/Wii-U/Het-systeem/Systeembundels/Systeembundels-663024.html) 
 
-![What if ? boek](./whatif.jpg)
+	![Wii U](http://techgeek.com.au/wp-content/uploads/2014/04/MARIO-KART-8-PREMIUM-PACK.jpg)
 
 <hr />
 
-## 2. Sculpt Ergonomic Keyboard For Business
-- [alternate.be](http://www.alternate.be/Microsoft/Sculpt-Ergonomic-Keyboard-for-Business/html/product/1102266)
+## 2. Desk App voor Mac
+- [site](http://desk.pm)
+- [Mac App Store](https://itunes.apple.com/us/app/desk/id915839505?ls=1&mt=12)
 
-![Sculpt keyboard](./sculpt.jpg)
+	![Desk App](http://desk.pm/startup/common-files/icons/desk-128-2X.png)
 
 <hr />
 
@@ -32,9 +33,3 @@
 ![HAMA miniset](hama.png)
 
 <hr />
-
-## 5. XBOX 360 Gamepad for PC
-
-- [Tones.be](http://www.tones.be/product/xbox-360-wireless-controller-for-windows)
-
-![XBOX 360 gamepad](gamepad.jpeg)
