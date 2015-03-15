@@ -6,15 +6,7 @@
 	![Wii U](http://techgeek.com.au/wp-content/uploads/2014/04/MARIO-KART-8-PREMIUM-PACK.jpg)
 
 <hr />
-
-<!-- ## 2. Desk App voor Mac
-- [site](http://desk.pm)
-- [Mac App Store](https://itunes.apple.com/us/app/desk/id915839505?ls=1&mt=12)
-
-	![Desk App](http://desk.pm/startup/common-files/icons/desk-128-2X.png)
-
-<hr />
- -->
+ 
 ## 2. Moleskin Notitieboekjes
 - 13x21cm (**groot**), ruitjes (**squared**), **harde** cover
 	- [wit](https://store.moleskine.com/bel/notebooks/notebooks/white-notebook/p3?lang=en-gb&ic=HCWzoA%3D%3D&vid=37) (configuratie nodig)
@@ -31,5 +23,12 @@
 	- Torx T5
 - bv: [HAMA mediamarkt](http://www.mediamarkt.be/mcs/product/HAMA-39694-Mini-schroevendraaier-set-Televisie-%26-Audio-Buy-online-at-MediaMarkt,98952,502728,652331.html?langId=-17)
 ![HAMA miniset](hama.png)
+
+<hr />
+
+## 4. Samson C01UPRO USB-microfoon
+- [Amazon](http://www.amazon.de/Samson-SAC01UPRO-C01UPRO-USB-Mikrofon/dp/B00HXE4BYW/ref=sr_1_fkmr2_1?ie=UTF8&qid=1426413366&sr=8-1-fkmr2&keywords=Samson+CO1U+Pro)
+
+	![Samson C01UPRO USB](http://ecx.images-amazon.com/images/I/71bL6PeKtHL._SY450_.jpg)
 
 <hr />
