@@ -7,15 +7,15 @@
 
 <hr />
 
-## 2. Desk App voor Mac
+<!-- ## 2. Desk App voor Mac
 - [site](http://desk.pm)
 - [Mac App Store](https://itunes.apple.com/us/app/desk/id915839505?ls=1&mt=12)
 
 	![Desk App](http://desk.pm/startup/common-files/icons/desk-128-2X.png)
 
 <hr />
-
-## 3. Moleskin Notitieboekjes
+ -->
+## 2. Moleskin Notitieboekjes
 - 13x21cm (groot), ruitjes (squared), harde cover
 	- [wit](http://store.moleskine.com/bel/nl-nl/catalog/detail/white-notebook/taccuino0bianco?ic=6thYig%3D%3D)
 	- [klassiek](http://store.moleskine.com/bel/nl-nl/catalog/detail/classic-notebook/taccuino0classico?ic=2L0gHw%3D%3D)
@@ -25,7 +25,7 @@
 
 <hr />
 
-## 4. Schroevendraaier set
+## 3. Schroevendraaier set
 
 - minimale vereiste
 	- Torx T5
