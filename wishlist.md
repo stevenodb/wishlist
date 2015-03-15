@@ -1,7 +1,7 @@
 # Lijstje
 
 ## 1. Wii U Premium Zwart 32GB — Mario Kart
-- [Wii U Mario Kart](https://www.nintendo.be/nl/Wii-U/Het-systeem/Systeembundels/Systeembundels-663024.html) 
+- [Wii U Mario Kart](https://www.nintendo.be/nl/Wii-U/Het-systeem/Systeembundels/Systeembundels-663024.html)
 
 	![Wii U](http://techgeek.com.au/wp-content/uploads/2014/04/MARIO-KART-8-PREMIUM-PACK.jpg)
 
@@ -16,10 +16,10 @@
 <hr />
  -->
 ## 2. Moleskin Notitieboekjes
-- 13x21cm (groot), ruitjes (squared), harde cover
-	- [wit](http://store.moleskine.com/bel/nl-nl/catalog/detail/white-notebook/taccuino0bianco?ic=6thYig%3D%3D)
-	- [klassiek](http://store.moleskine.com/bel/nl-nl/catalog/detail/classic-notebook/taccuino0classico?ic=2L0gHw%3D%3D)
-	- [rood](http://store.moleskine.com/bel/nl-nl/catalog/detail/hard-cover-coloured-notebook/taccuino0colorato0hard?ic=ruqt1g%3D%3D)
+- 13x21cm (**groot**), ruitjes (**squared**), **harde** cover
+	- [wit](https://store.moleskine.com/bel/notebooks/notebooks/white-notebook/p3?lang=en-gb&ic=HCWzoA%3D%3D&vid=37) (configuratie nodig)
+	- [klassiek](https://store.moleskine.com/bel/notebooks/notebooks/classic-notebook/p1?lang=en-gb&ic=Ep5PYg%3D%3D) (configuratie nodig)
+	- [rood](https://store.moleskine.com/bel/notebooks/notebooks/hard-cover-coloured-notebook/p2?lang=en-gb&ic=wwsk7w%3D%3D&vid=7) (configuratie nodig)
 
 ![Moleskin notitieboekjes](./moleskin.jpg)
 
