@@ -14,7 +14,9 @@
 	![][image-4] 
 5. Bijdrage voor hoofdtelefoon
 6. iTunes gift card
-7. …
+7. Lekker etentje
+8. Iets leuks
+9. …
 
 
 <!-- ## Wii U Premium Zwart 32GB — Mario Kart
