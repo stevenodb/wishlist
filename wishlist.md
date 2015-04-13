@@ -1,12 +1,16 @@
 # Wenslijstje
 
 1. [Fantastical 2 kalender app voor Mac][1] (€40)
+
 	![][image-1]
 2. [Grand Theft Auto V (GTA 5) voor PC][2] (€50)
+
 	![][image-2]
 3. [Raspberry Pi 2 case][3] (€20)
+
 	![][image-3]
 4. [Moleskin Notitieboekjes][4] 13x21cm (**groot**), ruitjes (**squared**), **harde** cover
+
 	![][image-4] 
 5. Bijdrage voor hoofdtelefoon
 6. iTunes gift card
