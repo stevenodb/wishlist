@@ -15,8 +15,9 @@
 5. Bijdrage voor hoofdtelefoon
 6. iTunes gift card
 7. Lekker etentje
-8. Iets leuks
-9. …
+8. Senseo (den oude is stervende)
+9. Iets leuks
+10. …
 
 
 <!-- ## Wii U Premium Zwart 32GB — Mario Kart
