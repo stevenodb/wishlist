@@ -7,6 +7,7 @@
 5. Wii-U: [The Legend of Zelda: The Wind Waker HD][4]
 6. Antislip sokken (ipv sloefen)
 7. Bon Carmi
+8. Geïsoleerde glazen voor warme dranken
 
 
 [1]: https://sites.fastspring.com/flexibits/order/confirm
