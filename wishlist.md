@@ -4,7 +4,6 @@
 2. [Aeropress koffiezetter][2]
 4. [Audio Technica M40X][3] (ik leg de rest bij)
 6. Antislip sokken (ipv sloefen)
-7. Bon Carmi
 
 
 [1]: https://sites.fastspring.com/flexibits/order/confirm
