@@ -1,12 +1,8 @@
 # Wenslijstje
 
 1. [Fantastical 2 kalender app voor Mac][fantastical]
-2. [Aeropress koffiezetter][aeropress]
 3. [Audio Technica M40X][atm40x] (ik leg de rest bij)
-4. Antislip sokken (ipv sloefen)
-5. [The Legend of Zelda: Hyrule Historia Strategy Game Guide][zeldabook]
 6. [DeLOCK 2.5 External Enclosure][delock]
-7. [Wii U Yoshi's Woolly World][yoshi]
 
 [fantastical]: https://sites.fastspring.com/flexibits/order/confirm
 [aeropress]: http://www.koffiemaniak.be/aeropress-koffiezetters
