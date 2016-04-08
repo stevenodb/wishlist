@@ -2,7 +2,6 @@
 
 1. [Fantastical 2 kalender app voor Mac][fantastical]
 3. [Audio Technica M40X][atm40x] (ik leg de rest bij)
-6. [DeLOCK 2.5 External Enclosure][delock]
 
 [fantastical]: https://sites.fastspring.com/flexibits/order/confirm
 [aeropress]: http://www.koffiemaniak.be/aeropress-koffiezetters
