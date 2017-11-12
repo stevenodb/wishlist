@@ -7,4 +7,4 @@
     1. [Astrophysics for People in a Hurry](https://www.bol.com/nl/p/astrophysics-for-people-in-a-hurry/9200000066200444/) — Neil Degrasse Tyson
     1. [Homo Deus](https://www.bol.com/nl/p/homo-deus/9200000065120485/) — Yuval Noah Harari
     1. [Sapiens](https://www.bol.com/nl/p/sapiens/9200000033418652/) — Yuval Noah Harari
-1. 
+1. Bijdrage nieuwe iPhone.
