@@ -7,7 +7,6 @@
     1. [Astrophysics for People in a Hurry](https://www.bol.com/nl/p/astrophysics-for-people-in-a-hurry/9200000066200444/) — Neil Degrasse Tyson
     1. [Homo Deus](https://www.bol.com/nl/p/homo-deus/9200000065120485/) — Yuval Noah Harari
 1. Bijdrage nieuwe smartfeun
-1. [Melitta Molino](https://www.bol.com/nl/p/melitta-molino-koffiemolen-zwart-rood/9200000040497869/?suggestionType=categorysuggestionsearch) - Koffiemolen
 1. Gaming
     1. [Nintendo Switch Pro Controller](https://www.bol.com/nl/p/nintendo-pro-controller-zwart-switch/9200000073684267) (zwart)
     1. [Wolfenstein II The New Colossus](https://www.bol.com/nl/p/wolfenstein-ii-the-new-colossus-code-in-a-box-windows/9200000079092783)
